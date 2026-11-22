@@ -2,6 +2,7 @@ This is an app to show the similar items. We have used the book recommendation d
 
 Kaggle link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 Dataset name: Book Recommendation Dataset
+Github link: https://github.com/swagatachanda/Book-Recommendation-System.git
 
 Build command: pip install -r requirements.txt
 Start command: streamlit run app.py
